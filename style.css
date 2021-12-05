@@ -17,7 +17,7 @@ html{
     background-color:aliceblue;
 }
 .inner-div{
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     width: 45vw;
     background-color:#fff;
     padding: 3rem 8rem;
